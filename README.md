@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/aaaa/martonlederer/master/name.svg" alt="martonlederer" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="martonlederer" />
 </h1>
 
 ## Hi there! 👋 "The power of imagination makes us infinite" 🙋‍‍♂️

@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="martonlederer" />
-</h1>
+<h3 align="center">
+  Welcome to Jonah Lawrence's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 ## Hi there! 👋 "The power of imagination makes us infinite" 🙋‍‍♂️
 

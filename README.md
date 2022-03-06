@@ -1,4 +1,4 @@
-## Olá! "Nothing will work unless you do."
+## Olá gente boa! "In theory there is no difference between theory and practice. In practice there is."
 
 <div align="center">
   <a href="https://github.com/kevynrocha35">

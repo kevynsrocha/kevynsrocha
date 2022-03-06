@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">"The power of imagination makes us infinite"</h3> 🙋‍‍♂️
+<h3 align="center">"The power of imagination makes us infinite 🙋‍‍♂️"</h3>
 
 <div align="center">
   <a href="https://github.com/kevynrocha35">

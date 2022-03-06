@@ -1,4 +1,8 @@
-## Hi there! "The power of imagination makes us infinite" 🙋‍‍♂️
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Kevyn Rocha" />
+</h1>
+
+## Hi there! 👋 "The power of imagination makes us infinite" 🙋‍‍♂️
 
 <div align="center">
   <a href="https://github.com/kevynrocha35">

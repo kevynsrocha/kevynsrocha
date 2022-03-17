@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h4 align=center>
-  "Once we accept our limits, we go beyond them."
+  | "Once we accept our limits, we go beyond them." |
 </h4>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->

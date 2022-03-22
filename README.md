@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=kevynsrocha&color=red" alt="Profile views" />
   Welcome to Kevyn Rocha profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
@@ -32,6 +31,7 @@
   <a href = "mailto:contatokevynrocha35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-<h6>  
- "Once we accept our limits, we go beyond them." 
+<h6>    
+  "Once we accept our limits, we go beyond them." 
 </h6>
+<img align="left" src="https://komarev.com/ghpvc/?username=kevynsrocha&color=red" alt="Profile views" />

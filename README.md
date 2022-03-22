@@ -34,4 +34,3 @@
 <h6>    
   "Once we accept our limits, we go beyond them." 
 </h6>
-<img align="left" src="https://komarev.com/ghpvc/?username=kevynsrocha&color=red" alt="Profile views" />

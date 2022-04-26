@@ -13,10 +13,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kevynsrocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevynsrocha&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
-<div align='center'>
-  <a href="http://www.github.com/kevynsrocha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kevynsrocha&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true"/></a>
-</div>
 
 <div style="display: inline_block">
   
@@ -38,3 +34,7 @@
 <h6>    
   "Once we accept our limits, we go beyond them." 
 </h6>
+  
+<div align='left'>
+  <a href="http://www.github.com/kevynsrocha"><img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=kevynsrocha&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true"/></a>
+</div>
